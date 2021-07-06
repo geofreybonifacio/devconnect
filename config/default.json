@@ -1,7 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://mernadmin:2214234@deconnector.eoesv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken",
-  "githubClientId": "a5336599247404b56cad",
-  "githubSecret": "fad10c90566ea3b3fdb2e35873a325459b4262cd",
-  "githubToken": "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"
-}
