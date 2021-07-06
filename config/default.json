@@ -1,3 +1,6 @@
 {
-  "mongoURI": "mongodb+srv://mernadmin:2214234@deconnector.eoesv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://mernadmin:2214234@deconnector.eoesv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "a5336599247404b56cad",
+  "githubSecret": "820a2768db1202cacd184f6a7a2635d5c1a41f88"
 }
